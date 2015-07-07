@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="com.example.ui.activity.MainMenuActivity">
+
+
+
+<RadioGroup
+    android:id="@+id/buttonAction"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="horizontal"
+    android:layout_alignParentBottom="true"
+    android:background="@color/app_blue">
+
+
+    <RadioButton
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="Menu"
+        android:textSize="16sp"
+        android:button="@null"
+        android:gravity="center"
+        android:textColor="@color/app_text_color_white"
+        android:background="@drawable/radioaction"
+        android:id="@+id/menu"
+        android:checked="false"/>
+
+    <View
+        android:layout_width=".5dp"
+        android:layout_height="match_parent"
+        android:background="@color/app_text_color_white"></View>
+
+    <RadioButton
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="reserved1"
+        android:textSize="16sp"
+        android:button="@null"
+        android:gravity="center"
+        android:textColor="@color/app_text_color_white"
+        android:background="@drawable/radioaction"
+        android:id="@+id/reserved1"/>
+
+    <View
+        android:layout_width=".5dp"
+        android:layout_height="match_parent"
+        android:background="@color/app_text_color_white"></View>
+
+
+
+    <RadioButton
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="reserved2"
+        android:textSize="16sp"
+        android:button="@null"
+        android:gravity="center"
+        android:textColor="@color/app_text_color_white"
+        android:background="@drawable/radioaction"
+        android:id="@+id/reserved2"
+        android:checked="false"/>
+
+    <View
+        android:layout_width=".5dp"
+        android:layout_height="match_parent"
+        android:background="@color/app_text_color_white"></View>
+
+
+
+    <RadioButton
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="reserved3"
+        android:textSize="16sp"
+        android:button="@null"
+        android:gravity="center"
+        android:textColor="@color/app_text_color_white"
+        android:background="@drawable/radioaction"
+        android:id="@+id/reserved3"/>
+
+</RadioGroup>
+
+<RelativeLayout
+    android:id="@+id/fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:layout_above="@id/buttonAction"
+    android:layout_marginBottom="0dp"></RelativeLayout>
+
+
+</RelativeLayout>
+<!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_main_menu.xml -->

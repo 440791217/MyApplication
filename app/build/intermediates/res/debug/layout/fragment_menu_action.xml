@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="MenuAction"
+        android:id="@+id/button"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>
+<!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/fragment_menu_action.xml -->

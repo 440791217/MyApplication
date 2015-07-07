@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_checked="true" android:drawable="@color/app_text_color_black"/>
+<item android:drawable="@color/app_blue"/>
+
+
+</selector><!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/radioaction.xml -->

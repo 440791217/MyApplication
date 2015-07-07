@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\butterknife-5.1.1-4e4ce574f3d72998b594448756183a3048e0c38d.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8646b1e69dd5d923d8866dc4311859f0fbca456c">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\classes-0e306546f740ecfff5d1a53ed2537e8891fbed3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\libs\fastjson-1.2.4.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fbcf8415e32859b473b336e5ac6422ee69b1185b">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\fastjson-1.2.4-2c75ebb219e6093ff9ccdfe21f7204fe9ba857f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.7\cd78109020f9ec803ef4e652c17ee4615b03e20a\android-async-http-1.4.7.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.7-49eead1a08c527fcfd655364b074e62402be59cf.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\classes-aaf984c8decc2c2bfc496db936f3f5564dbb83f8.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\classes-5d8fda96328feb55f6e8ebcb2b46b7d8ec091bc0.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\classes-78331cb65f3580e5547c4eda6cd62d75195f1cab.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-with-sources-fafb2f0af42ed878455778ac4a1143bb86544ae2.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\exploded-aar\MyApplication\materialedit\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d1ed0941407103ae27b0a1ac8b65a2f330f0c01f">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\classes-6f45d6c4ae779c8c16fe8be86f1a9b5d4313fb48.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ed148b79a2e32691150cd675671d029625c3d8f8.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Users\Administrator\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-505a7d5ba11fd51331ca7820c81f43268bfa9385.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="app_blue">#0081cc</color>
+    <color name="app_blue_light">#D2DFFF</color>
+    <color name="app_red">#EB6F44</color>
+    <color name="app_text_color_black">#060202</color>
+    <color name="app_text_color_white">#ECF5FA</color>
+    <color name="body_white">#FFFFFF</color>
+    <color name="body_gray">#E4E9EB</color>
+    <color name="toast_bg">#F1D888</color>
+    <color name="app_light_green">#D2EBEA</color>
+    <color name="app_light_blue">#0081CC</color>
+    <color name="app_dark">#000000</color>
+    <color name="app_line_gray">#e3e3e3</color>
+
+
+    <color name="bsd_E6EAEC">#E6EAEC</color>
+    <color name="bsd_168455">#168455</color>
+    <color name="bsd_EDB474">#EDB474</color>
+    <color name="bsd_92CEAC">#92CEAC</color>
+    <color name="bsd_3480C3">#3480C3</color>
+    <color name="bsd_E61D2F">#E61D2F</color>
+    <color name="bsd_D2EBEA">#D2EBEA</color>
+    <color name="bsd_ED6F44">#ED6F44</color>
+    <color name="bsd_F9F2E2">#F9F2E2</color>
+    <color name="bsd_0081CC">#0081CC</color>
+    <color name="bsd_E8E9E9">#E8E9E9</color>
+    <color name="bsd_8E8C8B">#8E8C8B</color>
+
+</resources>

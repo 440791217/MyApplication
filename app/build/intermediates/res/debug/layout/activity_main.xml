@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/textinputAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dip">
+
+        <EditText
+            android:id="@+id/Account" android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:hint="用户名" android:textColor="?android:attr/textColorPrimary" android:textSize="16sp"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/textinputPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textinputAccount" android:layout_marginTop="8dip">
+
+        <EditText
+            android:id="@+id/Password" android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:hint="密码" android:inputType="textPassword"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="16sp"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="Login"
+        android:textSize="20sp"
+        android:id="@+id/login"
+        android:layout_marginTop="30dp"
+        android:onClick="Login"
+        android:layout_below="@+id/textinputPassword"
+        android:layout_alignRight="@+id/textinputPassword"
+        android:layout_alignEnd="@+id/textinputPassword"/>
+
+
+</RelativeLayout>
+<!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml -->

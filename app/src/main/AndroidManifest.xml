@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example" >
+
+    <!-- 允许程序打开网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 允许程序访问Wi-Fi网络状态信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 允许程序改变Wi-Fi连接状态 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 允许程序写入API设置 -->
+    <!-- <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" /> -->
+    <!-- 允许写入sdcard -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 允许一个程序访问GPS信息 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 允许程序访问有关GSM网络信息 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许访问振动设备 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 开机自启动 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:name=".base.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+
+        <!-- Service from here -->
+        <service
+            android:name=".sys.service.ServiceSample"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.example.sys.service.ServiceSample" />
+            </intent-filter>
+        </service>
+
+
+        <activity
+            android:name=".ui.activity.AnimateActivity"
+            android:label="@string/title_activity_animate"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.activity.EntryActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ui.activity.MainMenuActivity"
+            android:label="@string/title_activity_main_menu"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+
+
+
+
+
+    </application>
+
+</manifest>
