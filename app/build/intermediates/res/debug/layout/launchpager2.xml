@@ -21,4 +21,4 @@
         android:onClick="toEntry"
         android:id="@+id/button2"/>
 </RelativeLayout>
-<!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/launchpager2.xml -->
+<!-- From: file:/D:/Program%20Files/Android/workspace/MyApplication/app/src/main/res/layout/launchpager2.xml -->

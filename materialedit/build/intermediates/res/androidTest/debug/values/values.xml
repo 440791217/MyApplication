@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/materialedit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/D:/Program%20Files/Android/workspace/MyApplication/materialedit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -150,13 +150,13 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/materialedit/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Program%20Files/Android/workspace/MyApplication/materialedit/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <dimen name="bottom_ellipsis_height">4dp</dimen>
     <dimen name="bottom_text_size">12sp</dimen>
     <dimen name="default_padding_bottom">8dp</dimen>
     <dimen name="default_padding_top">8dp</dimen>
-    <!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/materialedit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/D:/Program%20Files/Android/workspace/MyApplication/materialedit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -164,13 +164,13 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/materialedit/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/D:/Program%20Files/Android/workspace/MyApplication/materialedit/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <dimen name="floating_label_text_size">12sp</dimen>
     <dimen name="inner_components_spacing">8dp</dimen>
     <dimen name="inner_padding_left">0dp</dimen>
     <dimen name="inner_padding_right">0dp</dimen>
-    <!-- From: file:/D:/Users/Administrator/Desktop/MyApplication/materialedit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/D:/Program%20Files/Android/workspace/MyApplication/materialedit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
